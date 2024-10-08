@@ -1,3 +1,20 @@
+## New Intro (to see original README go down to the Introduction section)
+This project consists of four (4) R scripts titled plot1.R, plot2.R, etc.
+These scrips each create a plot recreating the plots provided in the 
+project prompt.
+
+At the beginning of each R Script, the script will check for and install a 
+selection of packages necessary to run the script: (tidyr, dplyr, etc.) 
+
+Each R script will then read out the necessary data from the provided data.
+
+Each R script will create a plot that is then saved in a png 
+file of the same name (eg.: plot1.R -> plot1.png)
+
+Each script should contain hashtags that explain each step of the code(#)
+
+
+
 ## Introduction
 
 This assignment uses data from
@@ -30,7 +47,7 @@ web site</a>:
 <li><b>Global_intensity</b>: household global minute-averaged current intensity (in ampere) </li>
 <li><b>Sub_metering_1</b>: energy sub-metering No. 1 (in watt-hour of active energy). It corresponds to the kitchen, containing mainly a dishwasher, an oven and a microwave (hot plates are not electric but gas powered). </li>
 <li><b>Sub_metering_2</b>: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light. </li>
-<li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
+<li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 </ol>
 
 ## Loading the data
